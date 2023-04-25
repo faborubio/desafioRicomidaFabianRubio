@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  background-color: #ffffff;
+  font-family: Cabin;
+}
+
+.navbar-ricomida {
+  justify-content: space-between;
+  background-color: #373A3C;
+}
+
+#navbarSupportedContent .navbar-nav a {
+  color: rgb(255, 255, 255);
+}
+
+.navbar-ricomida .navbar-collapse {
+  flex-grow: 0;
+}
+
+.navbar-brand p {
+  font-family: Lobster;
+}
+
+
+
+section .texto-2 h4 {
+  font-size: 25px;
+}
+
+section strong {
+  font-family: Lobster;
+}
+
+footer {
+  background-color: #373A3C;
+  color: #ffffff;
+}
+
+.RicomidaFooter p {
+  font-family: Lobster;
+}
